@@ -1,4 +1,4 @@
-# appbar_widget
+# Appbar with title
 
 A new Flutter project.
 
