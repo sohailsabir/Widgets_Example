@@ -1,3 +1,3 @@
 # Widgets_Example
- just for practice
+ Just for practice
 
